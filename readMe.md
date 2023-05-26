@@ -1,6 +1,6 @@
-hi
+Hi
 How are you?
 LeanIX
 another change
 Bonn
-Boston
+boston
